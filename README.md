@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Tsinuel
 - 👀 I’m interested in computational fluid and solid mechanics, particularly wind engineering
-- 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on wind loading, CFD, and ML
+- 💞️ I’m looking to collaborate on computational wind engineering topics, particularly related to wind loading
 - 📫 How to reach me LinkedIn with the same name
 
 <!---
