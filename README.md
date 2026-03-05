@@ -1,9 +1,17 @@
-- 👋 Hi, I’m @Tsinuel
-- 👀 I’m interested in computational fluid and solid mechanics, particularly wind engineering
-- 💞️ I’m looking to collaborate on **computational wind engineering** topics, particularly related to wind loading
-- 📫 How to reach me at [LinkedIn](https://www.linkedin.com/in/tsinuel/ "LinkedIn") or [Twitter: @tsinuelN](https://twitter.com/tsinuelN "@tsinuelN")
+## Hi, I’m Tsinuel 👋
 
-<!---
-Tsinuel/Tsinuel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Computational wind engineering / CFD & solid mechanics — focused on wind loading and structural response.
+
+### Interests
+- Atmospheric boundary layer (ABL) flow, wind-structure interaction
+- Wind loads on buildings and components (pressure, cladding, aeroelastic effects)
+- CFD/FEM workflows for fluid–solid problems and uncertainty/sensitivity studies
+
+### Collaboration
+I’m especially interested in collaborating on **computational wind engineering** topics, including:
+- Wind loading simulations & validation (CFD ↔ wind tunnel / field data)
+- Pressure coefficient development, load mapping, and structural response
+- Tooling to automate post-processing and load combinations
+
+### Reach me
+- LinkedIn: https://www.linkedin.com/in/tsinuel/
